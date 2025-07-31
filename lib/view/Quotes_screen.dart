@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:randomquotegenerator/provider/Quote_Provider.dart';
-import 'package:randomquotegenerator/theme/theme.dart';
 
 class QuotesScreen extends StatefulWidget {
   const QuotesScreen({super.key});
