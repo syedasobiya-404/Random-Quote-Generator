@@ -40,7 +40,7 @@ class _QuotesScreenState extends State<QuotesScreen> {
                     children: [
                       Icon(
                         Icons.format_quote_rounded,
-                        size: 40,
+                        size: 60,
                         color: Colors.deepPurple,
                       ),
                       SizedBox(height: 20),
