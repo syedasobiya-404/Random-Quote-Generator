@@ -14,12 +14,6 @@ A clean and minimalist Flutter app that displays a random inspirational quote us
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots here (e.g., from a simulator or device)._
-
----
-
 ## 🚀 Getting Started
 
 ### 📦 Prerequisites
